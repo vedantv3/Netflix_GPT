@@ -84,7 +84,7 @@
 
 1. **Clone the Repo:**
    ```sh
-   git clone https://github.com/Saurav1928/RealEstate-Project
+   git clone https://github.com/Saurav1928/Netflix-GPT
    ```
 2. **Install Required Dependencies**
 
