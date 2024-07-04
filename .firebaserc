@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "gptflix-74f90"
-  }
+    "default": "gptflix-4a318",
+    "build": "netflixgpt-4a318"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
