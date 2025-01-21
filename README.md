@@ -84,18 +84,14 @@
 
 1. **Clone the Repo:**
    ```sh
-   git clone https://github.com/Saurav1928/Netflix-GPT
+   git clone https://github.com/vedantv3/Netflix_GPT
    ```
 2. **Install Required Dependencies**
-
-   ```sh
    npm install
-   ```
+  
 
 3. **Start The Server**
-   ```sh
     npm run start
-   ```
 
 4. **Create Your .env file**
 
